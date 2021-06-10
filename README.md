@@ -4,11 +4,11 @@ I'm currently working on a new project with Ethereum and React, I will make a pu
 
 #### Projects I watch / contribute to
 - [Deno](https://github.com/denoland/deno) (Contributor) / A secure JavaScript and TypeScript runtime
-- [aleph.js](https://github.com/alephjs/aleph.js) (Contributor)  / The Full-stack Framework in Deno
+- [Aleph.js](https://github.com/alephjs/aleph.js) (Contributor)  / The Full-stack Framework in Deno
 - [IPFS](https://github.com/ipfs/ipfs) / Peer-to-peer hypermedia protocol
 
 #### My Aleph.js related projects
-- [aleph.js](https://github.com/alephjs/aleph.js) (Contributor)  / The Full-stack Framework in Deno
+- [Aleph.js](https://github.com/alephjs/aleph.js) (Contributor)  / The Full-stack Framework in Deno
 - [create-aleph-vercel-app](https://github.com/hazae41/create-aleph-vercel-app) / Aleph.js website + Node.js Vercel functions
 
 #### My Ethereum related projects
