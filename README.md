@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a new project with Ethereum, Next.js and FaunaDB, I will make a public announcement later.
+I'm currently learning Next.js and FaunaDB.
 
 #### Projects I watch / contribute to
 - [Deno](https://github.com/denoland/deno) (Contributor) / A secure JavaScript and TypeScript runtime
