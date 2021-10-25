@@ -23,7 +23,7 @@ I'm currently learning Next.js and FaunaDB.
 - [timeout.ts](https://github.com/hazae41/timeout.ts) / Abortable promise timeout for Deno
 
 #### My Deno WASM libraries to build fast apps ⚡
-- [denoflate](https://github.com/hazae41/denoflate) (+80 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
+- [denoflate](https://github.com/hazae41/denoflate) (+90 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 - [ed25519](https://github.com/hazae41/deno-ed25519) / Fast Ed25519 signatures for Deno, written in Rust
 - [AES-CFB](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
