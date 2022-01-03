@@ -1,6 +1,6 @@
-### Hi there 👋
+#### [All Orbitum projects](https://github.com/hazae41?tab=repositories&q=orbitum)
 
-I'm currently learning Next.js and FaunaDB.
+#### [All Stickorz projects](https://github.com/hazae41?tab=repositories&q=stickorz)
 
 #### Projects I watch / contribute to
 - [Deno](https://github.com/denoland/deno) (Contributor) / A secure JavaScript and TypeScript runtime
@@ -32,8 +32,7 @@ I'm currently learning Next.js and FaunaDB.
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) (+80 ⭐) / IPFS node monitoring for Android & ChromeOS
 - [Kheyboard](https://github.com/hazae41/kheyboard) / El Risitas stickers keyboard for Android
 
-#### My Minecraft plugins
-- There is a lot, check this out https://github.com/hazae41?tab=repositories&q=mc-
+#### [My Minecraft plugins](https://github.com/hazae41?tab=repositories&q=mc-) 
 
 <!--
 **hazae41/hazae41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
