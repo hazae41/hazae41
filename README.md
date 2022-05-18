@@ -1,7 +1,3 @@
-#### [All Orbitum projects](https://github.com/hazae41?tab=repositories&q=orbitum)
-
-#### [All Stickorz projects](https://github.com/hazae41?tab=repositories&q=stickorz)
-
 #### Projects I watch / contribute to
 - [Deno](https://github.com/denoland/deno) (Contributor) / A secure JavaScript and TypeScript runtime
 - [Aleph.js](https://github.com/alephjs/aleph.js) (Contributor)  / The Full-stack Framework in Deno
