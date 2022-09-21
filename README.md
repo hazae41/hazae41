@@ -1,6 +1,6 @@
 #### My best projects
 - [XSWR](https://github.com/hazae41/xswr) / The simplest React data (re)fetching library ever made
-- [Denoflate](https://github.com/hazae41/denoflate) (+90 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
+- [Denoflate](https://github.com/hazae41/denoflate) (+100 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) (+80 ⭐) / IPFS node monitoring for Android & ChromeOS
 - [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
 
@@ -8,7 +8,7 @@
 - [XSWR](https://github.com/hazae41/xswr) / The simplest React data (re)fetching library ever made
 
 #### My WebAssembly libraries
-- [Denoflate](https://github.com/hazae41/denoflate) (+90 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
+- [Denoflate](https://github.com/hazae41/denoflate) (+100 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 - [ED25519 for Deno](https://github.com/hazae41/deno-ed25519) / Fast Ed25519 signatures for Deno, written in Rust
 - [AES-CFB for Deno](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
