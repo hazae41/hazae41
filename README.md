@@ -10,7 +10,8 @@
 - [XSWR](https://github.com/hazae41/xswr) / The simplest React data (re)fetching library ever made
 
 #### My WebAssembly libraries
-- [Ed25519-dalek-wasm](https://github.com/hazae41/ed25519-dalek-wasm) / WebAssembly port of Ed25519_dalek, a Rust implementation of Ed25519 signatures 
+- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
+- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Denoflate](https://github.com/hazae41/denoflate) (+100 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 - [AES-CFB for Deno](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
