@@ -1,6 +1,7 @@
 #### My best projects
 - [XSWR](https://github.com/hazae41/xswr) / The simplest React data (re)fetching library ever made
-- [Ed25519-dalek-wasm](https://github.com/hazae41/ed25519-dalek-wasm) / WebAssembly port of Ed25519_dalek, a Rust implementation of Ed25519 signatures 
+- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
+- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Denoflate](https://github.com/hazae41/denoflate) (+100 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) (+80 ⭐) / IPFS node monitoring for Android & ChromeOS
 - [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
