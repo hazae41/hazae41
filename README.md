@@ -1,5 +1,5 @@
 #### My projects that I am currently working on
-- [Echalote](https://github.com/hazae41/xswr) / Tor in the browser using JS + WebAssembly
+- [Echalote](https://github.com/hazae41/echalote) / Tor in the browser using JS + WebAssembly
 - [XSWR](https://github.com/hazae41/xswr) / The simplest React data (re)fetching library ever made
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
