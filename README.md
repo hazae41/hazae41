@@ -9,6 +9,7 @@
 #### My most starred projects
 - [Denoflate](https://github.com/hazae41/denoflate) (+100 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) (+80 ⭐) / IPFS node monitoring for Android & ChromeOS
+- [XSWR](https://github.com/hazae41/xswr) (+50 ⭐) / The simplest React data (re)fetching library ever made
 
 #### My contributions to existing projects
 - [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
