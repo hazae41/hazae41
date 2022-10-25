@@ -6,7 +6,7 @@
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
 
-#### My best projects
+#### My most starred projects
 - [Denoflate](https://github.com/hazae41/denoflate) (+100 ⭐) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) (+80 ⭐) / IPFS node monitoring for Android & ChromeOS
 
