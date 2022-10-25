@@ -40,7 +40,4 @@
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) (+80 ⭐) / IPFS node monitoring for Android & ChromeOS
 - [Kheyboard](https://github.com/hazae41/kheyboard) / El Risitas stickers keyboard for Android
 
-#### Projects I contributed to
-- [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
-
 #### [My Minecraft plugins](https://github.com/hazae41?tab=repositories&q=mc-) 
