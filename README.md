@@ -9,13 +9,13 @@
 #### My most starred projects
 - [Denoflate](https://github.com/hazae41/denoflate) +100 ⭐ / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) +80 ⭐ / IPFS node monitoring for Android & ChromeOS
-- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / The simplest React data (re)fetching library ever made
+- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / The God tier React data (re)fetching library 🗿
 
 #### My contributions to existing projects
 - [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
 
 #### My React libraries
-- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / The simplest React data (re)fetching library ever made
+- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / The God tier React data (re)fetching library 🗿
 
 #### My WebAssembly libraries
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
