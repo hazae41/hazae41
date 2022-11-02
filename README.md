@@ -1,10 +1,10 @@
 #### My active projects
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
-- [Echalote](https://github.com/hazae41/echalote) / Tor implementation in the browser using JS + WebAssembly
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
-- [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
+- [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing
+- [Echalote](https://github.com/hazae41/echalote) / Tor implementation in the browser using JS + WebAssembly
 
 #### My most starred projects
 - [Denoflate](https://github.com/hazae41/denoflate) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust (+100 ⭐)
