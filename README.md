@@ -1,4 +1,4 @@
-#### My projects that I am currently working on
+#### My active projects
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 - [Echalote](https://github.com/hazae41/echalote) / Tor implementation in the browser using JS + WebAssembly
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
