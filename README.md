@@ -11,8 +11,8 @@
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) / IPFS node monitoring for Android & ChromeOS (+80 ⭐)
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 
-#### My contributions to existing projects
-- [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
+#### My contributions
+- [Deno](https://github.com/denoland/deno) / A secure JavaScript and TypeScript runtime
 
 #### My React libraries
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
