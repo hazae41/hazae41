@@ -4,11 +4,11 @@
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing
-- [Foras, aka Denoflate](https://github.com/hazae41/foras) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+100 ⭐)
+- [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+100 ⭐)
 - [Echalote](https://github.com/hazae41/echalote) / Tor implementation in the browser using JS + WebAssembly
 
 #### My most starred projects
-- [Foras, aka Denoflate](https://github.com/hazae41/foras) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+100 ⭐)
+- [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+100 ⭐)
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) / IPFS node monitoring for Android & ChromeOS (+80 ⭐)
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 
@@ -23,7 +23,7 @@
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
-- [Foras, aka Denoflate](https://github.com/hazae41/foras) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+100 ⭐)
+- [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+100 ⭐)
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 - [AES-CFB for Deno](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
 
