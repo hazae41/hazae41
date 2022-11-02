@@ -1,5 +1,5 @@
 #### My projects that I am currently working on
-- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / Yet another React data (re)fetching library
+- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 - [Echalote](https://github.com/hazae41/echalote) / Tor implementation in the browser using JS + WebAssembly
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
@@ -7,22 +7,22 @@
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
 
 #### My most starred projects
-- [Denoflate](https://github.com/hazae41/denoflate) +100 ⭐ / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
-- [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) +80 ⭐ / IPFS node monitoring for Android & ChromeOS
-- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / Yet another React data (re)fetching library
+- [Denoflate](https://github.com/hazae41/denoflate) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust (+100 ⭐)
+- [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) / IPFS node monitoring for Android & ChromeOS (+80 ⭐)
+- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 
 #### My contributions to existing projects
 - [Deno](https://github.com/denoland/deno) (Contributor, I made the UDP sockets) / A secure JavaScript and TypeScript runtime
 
 #### My React libraries
-- [XSWR](https://github.com/hazae41/xswr) +50 ⭐ / Yet another React data (re)fetching library
+- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 
 #### My WebAssembly libraries
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
-- [Denoflate](https://github.com/hazae41/denoflate) +100 ⭐ / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust
+- [Denoflate](https://github.com/hazae41/denoflate) / Fast Deflate/Gzip/Zlib compression for Deno, written in Rust (+100 ⭐)
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 - [AES-CFB for Deno](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
 
@@ -38,7 +38,7 @@
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 
 #### My Android apps: 
-- [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) +80 ⭐ / IPFS node monitoring for Android & ChromeOS
+- [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) / IPFS node monitoring for Android & ChromeOS (+80 ⭐)
 - [Kheyboard](https://github.com/hazae41/kheyboard) / El Risitas stickers keyboard for Android
 
 #### [My Minecraft plugins](https://github.com/hazae41?tab=repositories&q=mc-) 
