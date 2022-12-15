@@ -1,8 +1,8 @@
 #### My active projects
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
-- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER for the web 🏎️
+- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
-- [Echalote](https://github.com/hazae41/echalote) / Tor implementation in the browser using JS + WebAssembly
+- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the browser (JS + WebAssembly) 🏎️
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
