@@ -15,7 +15,7 @@
 - [orbitum-token-graph](https://github.com/hazae41/orbitum-token-graph) / Orbitum Space token graphs (TheGraph) on Polygon (token price)
 - [orbitum-ws](https://github.com/hazae41/orbitum-ws) / Orbitum Space WebSocket server for showing user count
 - [orbitum-art](https://github.com/hazae41/orbitum-art) / Orbitum Space logos
-- [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JeuxVideo.com userscript
+- [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JVC userscript
 
 ### My React libraries
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
