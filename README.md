@@ -16,6 +16,15 @@
 - [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) / IPFS node monitoring for Android & ChromeOS (+80 ⭐)
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 
+#### Orbitum Space projects
+- [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
+- [orbitum-gnosis-contracts](https://github.com/hazae41/orbitum-gnosis-contracts) / Orbitum Space smart contracts on Gnosis Chain (content)
+- [orbitum-gnosis-graph](https://github.com/hazae41/orbitum-gnosis-graph) / Orbitum Space graphs (TheGraph) on Gnosis Chain (content)
+- [orbitum-token-graph](https://github.com/hazae41/orbitum-token-graph) / Orbitum Space token graphs (TheGraph) on Polygon (token price)
+- [orbitum-ws](https://github.com/hazae41/orbitum-ws) / Orbitum Space WebSocket server for showing user count
+- [orbitum-art](https://github.com/hazae41/orbitum-art) / Orbitum Space logos
+- [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JeuxVideo.com userscript
+
 #### My contributions
 - [Deno](https://github.com/denoland/deno) / A secure JavaScript and TypeScript runtime
 
