@@ -20,6 +20,9 @@
 ### My React libraries
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+50 ⭐)
 
+### My testing libraries
+- [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
+
 ### My zero-copy libraries
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
