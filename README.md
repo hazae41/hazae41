@@ -4,7 +4,7 @@
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+70 ⭐)
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
-- [Telsa](https://github.com/hazae41/telsa) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
+- [Aimant](https://github.com/hazae41/aimant) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
 - [Binary](https://github.com/hazae41/binary) / Zero-copy Buffer reader and writer 🏎️
