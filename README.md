@@ -8,7 +8,7 @@
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
-- [Binary](https://github.com/hazae41/binary) / Zero-copy Buffer reader and writer 🏎️
+- [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
 
 ### [Orbitum Space](https://orbitum.space/) projects
 - [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
@@ -31,7 +31,7 @@
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
-- [Binary](https://github.com/hazae41/binary) / Zero-copy Buffer reader and writer 🏎️
+- [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
 
 ### My WebAssembly libraries
 - [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+110 ⭐)
