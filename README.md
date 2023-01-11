@@ -3,6 +3,7 @@
 ### Projects I'm currently working on
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+70 ⭐)
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
+- [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
@@ -22,8 +23,9 @@
 ### My React libraries
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+70 ⭐)
 
-### My testing libraries
+### My testing and benchmarking libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
+- [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 
 ### My zero-copy libraries
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
