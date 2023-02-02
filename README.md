@@ -1,12 +1,13 @@
 ## Maintained projects
 
 ### Projects I'm currently working on
-- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+70 ⭐)
+- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+80 ⭐)
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
+- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
 
@@ -20,7 +21,7 @@
 - [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JVC userscript
 
 ### My React libraries
-- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+70 ⭐)
+- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+80 ⭐)
 
 ### My testing and benchmarking libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
@@ -35,6 +36,7 @@
 - [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
 
 ### My WebAssembly libraries
+- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities
 - [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+110 ⭐)
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
