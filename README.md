@@ -36,7 +36,7 @@
 - [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
 
 ### My WebAssembly libraries
-- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities
+- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities 🏎️ (unpack, pack, xor)
 - [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+110 ⭐)
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
