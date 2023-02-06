@@ -39,6 +39,10 @@
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
 
+### My JavaScript utility libraries
+- [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
+- [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
+
 ## Unmaintained projects
 
 ### My WebAssembly libraries
