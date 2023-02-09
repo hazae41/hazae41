@@ -42,6 +42,7 @@
 ### My JavaScript utility libraries
 - [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
 - [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
+- [Bitset](https://github.com/hazae41/bitset) / Utilities for arithmetic bitwise operations in JavaScript
 
 ## Unmaintained projects
 
