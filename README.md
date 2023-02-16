@@ -40,7 +40,7 @@
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
 
 ### My JavaScript utility libraries
-- [Binary](https://github.com/hazae41/binary) / Zero-copy bytes reader and writer 🏎️
+- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
 - [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
 - [Bitset](https://github.com/hazae41/bitset) / Utilities for arithmetic bitwise operations in JavaScript
 
