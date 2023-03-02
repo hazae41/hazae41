@@ -1,13 +1,17 @@
 ## Maintained projects
 
 ### Projects I'm currently working on
+- [Brume Wallet](https://github.com/brume-wallet/brume-wallet) / The first private Ethereum wallet with built-in Tor
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
 
-### [Orbitum Space](https://orbitum.space/) projects
+### [Brume Wallet](https://github.com/brume-wallet) projects (co-founder)
+- [Brume Wallet](https://github.com/brume-wallet/brume-wallet) / The first private Ethereum wallet with built-in Tor
+
+### [Orbitum Space](https://orbitum.space/) projects (founder)
 - [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
 - [orbitum-gnosis-contracts](https://github.com/hazae41/orbitum-gnosis-contracts) / Orbitum Space smart contracts on Gnosis Chain (content)
 - [orbitum-gnosis-graph](https://github.com/hazae41/orbitum-gnosis-graph) / Orbitum Space graphs (TheGraph) on Gnosis Chain (content)
