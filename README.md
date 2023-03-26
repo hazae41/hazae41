@@ -46,11 +46,14 @@
 ### My JavaScript utility libraries
 - [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
 - [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
-- [Bitset](https://github.com/hazae41/bitset) / Utilities for arithmetic bitwise operations in JavaScript
+- [Arrays](https://github.com/hazae41/arrays) / Utilities to deal with arrays
+- [Cascade](https://github.com/hazae41/cascade) / Utilities to deal with streams
+- [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
 - [Future](https://github.com/hazae41/future) / Just like a Promise but you can manually resolve or reject it
 - [Mutex](https://github.com/hazae41/mutex) / Just a mutex
-- [Arrays](https://github.com/hazae41/arrays) / Utilities to deal with arrays
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
+- [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations
+- [X25519](https://github.com/hazae41/x25519) / X25519 adapter for WebAssembly and JS implementations
 
 ## Unmaintained projects
 
