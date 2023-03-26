@@ -51,6 +51,8 @@
 - [Future](https://github.com/hazae41/future) / Just like a Promise but you can manually resolve or reject it
 - [Mutex](https://github.com/hazae41/mutex) / Just a mutex
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
+
+### My cryptography adapters
 - [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations
 - [X25519](https://github.com/hazae41/x25519) / X25519 adapter for WebAssembly and JS implementations
 - [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations
