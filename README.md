@@ -52,6 +52,7 @@
 - [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
 - [Future](https://github.com/hazae41/future) / Just like a Promise but you can manually resolve or reject it
 - [Result](https://github.com/hazae41/result) / Rust-like Result for TypeScript
+- [Option](https://github.com/hazae41/option) / Rust-like Option for TypeScript
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex for TypeScript
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / DOM-like async events with both sequenced and parallel dispatching
