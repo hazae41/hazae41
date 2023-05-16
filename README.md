@@ -56,7 +56,7 @@
 - [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex for TypeScript
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
-- [Plume](https://github.com/hazae41/plume) / DOM-like async events with both sequenced and parallel dispatching
+- [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 
 ### My cryptography adapters
 - [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations
