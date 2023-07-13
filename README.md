@@ -1,8 +1,8 @@
 ## Maintained projects
 
 ### Projects I'm currently working on
+- [Brume Wallet](https://github.com/brumewallet/brumewallet) / The first private Ethereum wallet with built-in Tor
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+80 ⭐)
-- [Brume Wallet](https://github.com/brume-wallet/brume-wallet) / The first private Ethereum wallet with built-in Tor
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
