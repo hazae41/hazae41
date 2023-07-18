@@ -1,14 +1,14 @@
 ## Maintained projects
 
 ### Projects I'm currently working on
-- [Brume Wallet](https://github.com/brumewallet/brumewallet) / The first private Ethereum wallet with built-in Tor
+- [Brume Wallet](https://github.com/brumewallet/wallet) / The first private Ethereum wallet with built-in Tor
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+80 ⭐)
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
 
 ### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
-- [Brume Wallet](https://github.com/brumewallet/brumewallet) / The first private Ethereum wallet with built-in Tor
+- [Brume Wallet](https://github.com/brumewallet/wallet) / The first private Ethereum wallet with built-in Tor
 
 ### [Orbitum Space](https://orbitum.space/) projects (founder)
 - [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
