@@ -11,45 +11,24 @@
 ### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
 
-### [Orbitum Space](https://orbitum.space/) projects (founder)
-- [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
-- [orbitum-gnosis-contracts](https://github.com/hazae41/orbitum-gnosis-contracts) / Orbitum Space smart contracts on Gnosis Chain (content)
-- [orbitum-gnosis-graph](https://github.com/hazae41/orbitum-gnosis-graph) / Orbitum Space graphs (TheGraph) on Gnosis Chain (content)
-- [orbitum-token-graph](https://github.com/hazae41/orbitum-token-graph) / Orbitum Space token graphs (TheGraph) on Polygon (token price)
-- [orbitum-ws](https://github.com/hazae41/orbitum-ws) / Orbitum Space WebSocket server for showing user count
-- [orbitum-art](https://github.com/hazae41/orbitum-art) / Orbitum Space logos
-- [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JVC userscript
-
 ### My React libraries
 - [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+80 ⭐)
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 
-### My testing and benchmarking libraries
-- [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
-- [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
-
-### My zero-copy libraries 🏎️
+### My zero-copy protocol libraries 🏎️
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
 - [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web 🏎️
 - [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web 🏎️
+
+### My zero-copy parsing libraries 🏎️
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
-- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
-
-### My WebAssembly libraries
-- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities 🏎️ (unpack, pack, xor)
-- [Foras](https://github.com/hazae41/foras) (aka Denoflate) / WebAssembly port of Rust's flate2, a Rust implementation of Deflate, Gzip, and Zlib compressions (+110 ⭐)
-- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Dalek's Ed25519 and X25519, Rust implementations of Ed25519 signatures and X25519 key exchange
-- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RustCrypto's RSA, a Rust implementation of RSA encryption and signatures
-- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of RustCrypto's AES + CTR, Rust implementations of AES encryption with CTR mode
-- [Morax](https://github.com/hazae41/morax) / WebAssembly port of RustCrypto's SHA1, a Rust implementation of SHA-1 hashing.
 
 ### My JavaScript utility libraries
-- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
 - [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
 - [Arrays](https://github.com/hazae41/arrays) / Utilities to deal with arrays
 - [Cascade](https://github.com/hazae41/cascade) / Utilities to deal with streams
@@ -59,15 +38,38 @@
 - [Option](https://github.com/hazae41/option) / Rust-like Option for TypeScript
 - [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex for TypeScript
+- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 
-### My cryptography adapters
-- [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations
-- [X25519](https://github.com/hazae41/x25519) / X25519 adapter for WebAssembly and JS implementations
-- [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations
+### My zero-copy WebAssembly libraries 🏎️
+- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 🏎️
+- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 🏎️
+- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 🏎️
+- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 🏎️
+- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of AES encryption with CTR mode 🏎️
+- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, Keccak-256, and CRC-32 hashing algorithms 🏎️
+- [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 🏎️
+
+### My zero-copy algorithm adapters 🏎️
+- [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for zero-copy WebAssembly and JS implementations 🏎️
+- [X25519](https://github.com/hazae41/x25519) / X25519 adapter for zero-copy WebAssembly and JS implementations 🏎️
+- [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for zero-copy WebAssembly and JS implementations 🏎️
+
+### My testing and benchmarking libraries
+- [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
+- [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 
 ## Unmaintained projects
+
+### [Orbitum Space](https://orbitum.space/) projects (founder)
+- [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
+- [orbitum-gnosis-contracts](https://github.com/hazae41/orbitum-gnosis-contracts) / Orbitum Space smart contracts on Gnosis Chain (content)
+- [orbitum-gnosis-graph](https://github.com/hazae41/orbitum-gnosis-graph) / Orbitum Space graphs (TheGraph) on Gnosis Chain (content)
+- [orbitum-token-graph](https://github.com/hazae41/orbitum-token-graph) / Orbitum Space token graphs (TheGraph) on Polygon (token price)
+- [orbitum-ws](https://github.com/hazae41/orbitum-ws) / Orbitum Space WebSocket server for showing user count
+- [orbitum-art](https://github.com/hazae41/orbitum-art) / Orbitum Space logos
+- [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JVC userscript
 
 ### My WebAssembly libraries
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
