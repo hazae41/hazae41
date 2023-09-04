@@ -56,6 +56,7 @@
 - [X25519](https://github.com/hazae41/x25519) / X25519 adapter for zero-copy WebAssembly and JS implementations 🏎️
 - [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for zero-copy WebAssembly and JS implementations 🏎️
 - [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for zero-copy WebAssembly and JS implementations 🏎️
+- [Base16](https://github.com/hazae41/base16) / Base16 adapter for zero-copy WebAssembly and JS implementations 🏎️
 
 ### My testing and benchmarking libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
