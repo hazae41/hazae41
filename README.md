@@ -42,21 +42,22 @@
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 
-### My zero-copy WebAssembly libraries 🏎️
-- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 🏎️
-- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 🏎️
-- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 🏎️
-- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 🏎️
-- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of AES encryption with CTR mode 🏎️
-- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, Keccak-256, and CRC-32 hashing algorithms 🏎️
-- [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 🏎️
+### My WebAssembly libraries 
+- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
+- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 
+- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 
+- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 
+- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of AES encryption with CTR mode 
+- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, Keccak-256, and CRC-32 hashing algorithms 
+- [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
+- [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
 
-### My zero-copy algorithm adapters 🏎️
-- [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for zero-copy WebAssembly and JS implementations 🏎️
-- [X25519](https://github.com/hazae41/x25519) / X25519 adapter for zero-copy WebAssembly and JS implementations 🏎️
-- [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for zero-copy WebAssembly and JS implementations 🏎️
-- [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for zero-copy WebAssembly and JS implementations 🏎️
-- [Base16](https://github.com/hazae41/base16) / Base16 adapter for zero-copy WebAssembly and JS implementations 🏎️
+### My algorithm adapters 
+- [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations 
+- [X25519](https://github.com/hazae41/x25519) / X25519 adapter for WebAssembly and JS implementations 
+- [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations 
+- [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for WebAssembly and JS implementations 
+- [Base16](https://github.com/hazae41/base16) / Base16 adapter for WebAssembly and JS implementations 
 
 ### My testing and benchmarking libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
