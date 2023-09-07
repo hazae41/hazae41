@@ -48,7 +48,7 @@
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 
 - [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of AES encryption with CTR mode 
-- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, Keccak-256, and CRC-32 hashing algorithms 
+- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, SHA-256, Keccak-256, and CRC-32 hashing algorithms 
 - [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
 - [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
 
@@ -57,7 +57,9 @@
 - [X25519](https://github.com/hazae41/x25519) / X25519 adapter for WebAssembly and JS implementations 
 - [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations 
 - [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for WebAssembly and JS implementations 
-- [Base16](https://github.com/hazae41/base16) / Base16 adapter for WebAssembly and JS implementations 
+- [Base16](https://github.com/hazae41/base16) / Base16 adapter for WebAssembly and JS implementations
+- [Base64](https://github.com/hazae41/base64) / Base64 adapter for WebAssembly and JS implementations
+- [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 
 ### My testing and benchmarking libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
