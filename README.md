@@ -60,6 +60,7 @@
 - [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for WebAssembly and JS implementations 
 - [Base16](https://github.com/hazae41/base16) / Base16 adapter for WebAssembly and JS implementations
 - [Base64](https://github.com/hazae41/base64) / Base64 adapter for WebAssembly and JS implementations
+- [Base64URL](https://github.com/hazae41/base64url) / Base64URL adapter for WebAssembly and JS implementations
 - [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 
 ### My testing and benchmarking libraries
