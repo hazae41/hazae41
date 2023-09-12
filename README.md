@@ -48,7 +48,7 @@
 - [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 
 - [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 
 - [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 
-- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of AES encryption with CTR mode 
+- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of Aes128Ctr128Be and ChaCha20Poly1305 encryption algorithms 
 - [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, SHA-256, Keccak-256, and CRC-32 hashing algorithms 
 - [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
 - [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
