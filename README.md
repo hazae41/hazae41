@@ -64,6 +64,7 @@
 - [Base58](https://github.com/hazae41/base58) / Base58 adapter for WebAssembly and JS implementations
 - [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 - [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20Poly1305 adapter for WebAssembly and JS implementations
+- [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
 
 ### My testing and benchmarking libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
