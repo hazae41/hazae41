@@ -3,7 +3,7 @@
 ### Projects I'm currently working on
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
-- [XSWR](https://github.com/hazae41/xswr) / Yet another React data (re)fetching library (+80 ⭐)
+- [Glacier (XSWR)](https://github.com/hazae41/glacier) / Keep your data fresh (+80 ⭐)
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
