@@ -39,6 +39,7 @@
 - [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex for TypeScript
 - [Box](https://github.com/hazae41/box) / Rust-like Box for TypeScript
+- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC for TypeScript
 - [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
