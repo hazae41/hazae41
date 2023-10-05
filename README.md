@@ -43,6 +43,7 @@
 - [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
+- [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 
 ### My WebAssembly libraries 
 - [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
