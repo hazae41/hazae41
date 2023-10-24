@@ -4,9 +4,7 @@
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Glacier (XSWR)](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
-- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
-- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
-- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
+- [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
 
 ### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
@@ -16,6 +14,11 @@
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
+
+### My tooling libraries
+- [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
+- [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
+- [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 
 ### My zero-copy protocol libraries 🏎️
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
@@ -67,10 +70,6 @@
 - [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 - [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20Poly1305 adapter for WebAssembly and JS implementations
 - [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
-
-### My testing and benchmarking libraries
-- [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
-- [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 
 ## Unmaintained projects
 
