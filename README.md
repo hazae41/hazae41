@@ -20,16 +20,16 @@
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 
-### My zero-copy protocol libraries 🏎️
-- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web 🏎️ (JS + WebAssembly)
-- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web 🏎️ (JS + WebAssembly)
-- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web 🏎️ (JS + WebAssembly)
-- [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web 🏎️
-- [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web 🏎️
+### My protocol libraries
+- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
+- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
+- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
+- [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web
+- [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
 
-### My zero-copy parsing libraries 🏎️
-- [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web 🏎️
-- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web 🏎️
+### My parsing libraries
+- [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
+- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
 ### My JavaScript utility libraries
 - [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
@@ -43,7 +43,7 @@
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex for TypeScript
 - [Box](https://github.com/hazae41/box) / Rust-like Box for TypeScript
 - [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC for TypeScript
-- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 🏎️
+- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
