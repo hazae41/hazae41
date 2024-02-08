@@ -38,6 +38,7 @@
 - [Cascade](https://github.com/hazae41/cascade) / Utilities to deal with streams
 - [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
 - [Future](https://github.com/hazae41/future) / Just like a Promise but you can manually resolve or reject it
+- [Disposer](https://github.com/hazae41/disposer) / A wrapper for an object with a dispose function
 - [Result](https://github.com/hazae41/result) / Rust-like Result for TypeScript
 - [Option](https://github.com/hazae41/option) / Rust-like Option for TypeScript
 - [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
