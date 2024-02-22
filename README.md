@@ -6,7 +6,7 @@
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
-- [Sighash](https://sighash.hazae41.me/) / Decentralized Ethereum function signature database
+- [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
 
 ### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
