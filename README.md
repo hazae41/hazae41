@@ -1,7 +1,7 @@
 ## Maintained projects
 
 ### Projects I'm currently working on
-- [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
+- [Brume Wallet](https://github.com/brumewallet) / The private Ethereum wallet with built-in Tor
 - [Network](https://github.com/stars/hazae41/lists/network) / An anonymous PoW token to monetize the web
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
