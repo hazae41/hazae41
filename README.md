@@ -36,7 +36,7 @@
 ### My JavaScript utility libraries
 - [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
 - [Arrays](https://github.com/hazae41/arrays) / Utilities to deal with arrays
-- [Cascade](https://github.com/hazae41/cascade) / Utilities to deal with streams
+- [Cascade](https://github.com/hazae41/cascade) / Never let streams give you a headache again
 - [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
 - [Future](https://github.com/hazae41/future) / Just like a Promise but you can manually resolve or reject it
 - [Disposer](https://github.com/hazae41/disposer) / A wrapper for an object with a dispose function
