@@ -43,7 +43,7 @@
 - [Result](https://github.com/hazae41/result) / Rust-like Result for TypeScript
 - [Option](https://github.com/hazae41/option) / Rust-like Option for TypeScript
 - [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
-- [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex for TypeScript
+- [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex and Semaphore for TypeScript
 - [Box](https://github.com/hazae41/box) / Rust-like Box for TypeScript
 - [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC for TypeScript
 - [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
