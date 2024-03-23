@@ -7,6 +7,7 @@
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
 - [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
+- [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
 
 ### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
@@ -50,6 +51,7 @@
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
+- [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
 
 ### My WebAssembly libraries 
 - [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
