@@ -13,7 +13,7 @@
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
 
 ### My React libraries
-- [Glacier (XSWR)](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
+- [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
@@ -47,7 +47,8 @@
 - [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex and Semaphore for TypeScript
 - [Box](https://github.com/hazae41/box) / Rust-like Box for TypeScript
-- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC for TypeScript
+- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
+- [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
 - [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
