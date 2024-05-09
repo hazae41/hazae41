@@ -5,9 +5,8 @@
 - [Network](https://github.com/stars/hazae41/lists/network) / An anonymous PoW token to monetize the web
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
-- [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
 - [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
-- [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
+- [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 
 ### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
@@ -17,6 +16,7 @@
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
+- [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 
 ### My tooling libraries
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
