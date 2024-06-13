@@ -1,15 +1,16 @@
 ## Maintained projects
 
 ### Projects I'm currently working on
-- [Brume Wallet](https://github.com/brumewallet) / The private Ethereum wallet with built-in Tor
+- [Brume Wallet](https://github.com/brumewallet) / The private Ethereum wallet with built-in Tor (+100 daily users)
+- [DStorage](https://github.com/hazae41/dstorage) / Origin-agnostic storage for your dapp
 - [Network](https://github.com/stars/hazae41/lists/network) / An anonymous PoW token to monetize the web
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
-- [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
-- [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 
-### [Brume Wallet](https://github.com/brumewallet) projects (co-founder)
-- [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor
+### My user-facing projects
+- [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor (+100 daily users)
+- [DStorage](https://github.com/hazae41/dstorage) / Origin-agnostic storage for your dapp
+- [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
 
 ### My React libraries
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
@@ -54,6 +55,7 @@
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 - [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
+- [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 
 ### My WebAssembly libraries 
 - [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
