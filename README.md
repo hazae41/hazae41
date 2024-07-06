@@ -57,6 +57,10 @@
 - [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
 - [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 
+### My JavaScript polyfills
+- [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
+- [worker-online-polyfill](https://github.com/hazae41/worker-online-polyfill) / Polyfill for online and offline events on WebWorkers
+
 ### My WebAssembly libraries 
 - [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
 - [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 
