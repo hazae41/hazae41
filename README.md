@@ -14,6 +14,7 @@
 
 ### My React libraries
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
+- [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
