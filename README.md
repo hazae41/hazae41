@@ -29,6 +29,9 @@
 - [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
 - [NextAsImmutable](https://github.com/hazae41/next-as-immutable) / Create immutable Next.js webapps
 
+### My frameworks
+- [Immutable](https://github.com/hazae41/immutable) / Create immutable webapps
+
 ### My protocol libraries
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
