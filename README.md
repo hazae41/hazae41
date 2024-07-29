@@ -29,7 +29,7 @@
 - [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
 - [NextAsImmutable](https://github.com/hazae41/next-as-immutable) / Create immutable Next.js webapps
 
-### My framework libraries
+### My frameworks
 - [Immutable](https://github.com/hazae41/immutable) / Create immutable webapps
 
 ### My protocol libraries
