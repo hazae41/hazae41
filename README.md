@@ -15,6 +15,7 @@
 ### My React libraries
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 - [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
+- [CloseContext](https://github.com/hazae41/react-close-context) / CloseContext provides a `close(force?)` function to React
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
