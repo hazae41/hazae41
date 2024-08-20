@@ -20,6 +20,7 @@
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
+- [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
 
 ### My tooling libraries
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
