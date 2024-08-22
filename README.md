@@ -19,9 +19,10 @@
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
 
 ### My tooling libraries
-- [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
+- [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
+- [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
 
 ### My Next.js tooling libraries
 - [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
@@ -62,7 +63,6 @@
 - [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
-- [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 - [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
 - [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 
