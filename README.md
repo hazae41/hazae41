@@ -72,15 +72,12 @@
 - [disposable-stack-polyfill](https://github.com/hazae41/disposable-stack-polyfill) / Polyfill for DisposableStack and AsyncDisposableStack
 - [worker-online-polyfill](https://github.com/hazae41/worker-online-polyfill) / Polyfill for online and offline events on WebWorkers
 
-### My WebAssembly libraries 
-- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
-- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 
-- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 
-- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 
-- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of Aes128Ctr128Be and ChaCha20Poly1305 encryption algorithms 
-- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, SHA-256, Keccak-256, RIPEMD-160, and CRC-32 hashing algorithms 
-- [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
-- [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
+### My WebAssembly libraries
+- [Memory.wasm](https://github.com/hazae41/memory.wasm) / Zero-copy memory for WebAssembly
+
+### My WebAssembly ports
+- [Ed25519.wasm](https://github.com/hazae41/ed25519.wasm) / WebAssembly port of Ed25519
+- [X25519.wasm](https://github.com/hazae41/x25519.wasm) / WebAssembly port of X25519
 
 ### My algorithm adapters 
 - [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations 
@@ -97,6 +94,16 @@
 
 ## Unmaintained projects
 
+### My old WebAssembly ports
+- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
+- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 
+- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 
+- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 
+- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of Aes128Ctr128Be and ChaCha20Poly1305 encryption algorithms 
+- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, SHA-256, Keccak-256, RIPEMD-160, and CRC-32 hashing algorithms 
+- [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
+- [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
+
 ### [Orbitum Space](https://orbitum.space/) projects (founder)
 - [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
 - [orbitum-gnosis-contracts](https://github.com/hazae41/orbitum-gnosis-contracts) / Orbitum Space smart contracts on Gnosis Chain (content)
@@ -106,7 +113,7 @@
 - [orbitum-art](https://github.com/hazae41/orbitum-art) / Orbitum Space logos
 - [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JVC userscript
 
-### My WebAssembly libraries
+### My very old WebAssembly ports
 - [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
 - [AES-CFB for Deno](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
 
