@@ -77,6 +77,7 @@
 ### My WebAssembly ports
 - [Ed25519.wasm](https://github.com/hazae41/ed25519.wasm) / WebAssembly port of Ed25519
 - [X25519.wasm](https://github.com/hazae41/x25519.wasm) / WebAssembly port of X25519
+- [Base64.wasm](https://github.com/hazae41/base64.wasm) / WebAssembly port of Base64 and Base64Url
 
 ### My algorithm adapters 
 - [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations 
