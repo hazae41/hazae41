@@ -103,34 +103,6 @@
 - [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
 - [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
 
-### [Orbitum Space](https://orbitum.space/) projects (founder)
-- [orbitum-polygon-contracts](https://github.com/hazae41/orbitum-polygon-contracts) / Orbitum Space smart contracts on Polygon (token & forums)
-- [orbitum-gnosis-contracts](https://github.com/hazae41/orbitum-gnosis-contracts) / Orbitum Space smart contracts on Gnosis Chain (content)
-- [orbitum-gnosis-graph](https://github.com/hazae41/orbitum-gnosis-graph) / Orbitum Space graphs (TheGraph) on Gnosis Chain (content)
-- [orbitum-token-graph](https://github.com/hazae41/orbitum-token-graph) / Orbitum Space token graphs (TheGraph) on Polygon (token price)
-- [orbitum-ws](https://github.com/hazae41/orbitum-ws) / Orbitum Space WebSocket server for showing user count
-- [orbitum-art](https://github.com/hazae41/orbitum-art) / Orbitum Space logos
-- [orbitum-jvc](https://github.com/hazae41/orbitum-jvc) / Orbitum Space x JVC userscript
-
-### My very old WebAssembly ports
-- [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
-- [AES-CFB for Deno](https://github.com/hazae41/deno-aes-cfb) / Fast AES-CFB encryption for Deno, written in Rust
-
-### My Deno libraries
-- [mutevents.ts](https://github.com/hazae41/mutevents.ts) / Typed, mutable, async, and promiseable events for Deno
-- [multisocket.ts](https://github.com/hazae41/multisocket.ts) / WebSockets but with channels, for Deno and the browser
-- [abortable.ts](https://github.com/hazae41/abortable.ts) / Abortable promises for Deno
-- [sequence.ts](https://github.com/hazae41/sequence.ts) / Iterable piping and processing utility for Deno
-- [timeout.ts](https://github.com/hazae41/timeout.ts) / Abortable promise timeout for Deno
-
-### My Ethereum related projects
-- [ERC Antitoken](https://github.com/hazae41/ERC-Antitoken) / Implementation of my [ERC Antitoken (EIP)](https://github.com/ethereum/EIPs/issues/3477)
-- [ethabi.wasm](https://github.com/hazae41/ethabi.wasm) / Fast Ethereum ABI encoder/decoder for Deno, written in Rust
-
-### My Android apps
-- [Sweet IPFS](https://github.com/hazae41/sweet-ipfs) / IPFS node monitoring for Android & ChromeOS (+80 ⭐)
-- [Kheyboard](https://github.com/hazae41/kheyboard) / El Risitas stickers keyboard for Android
-
 ### [My Minecraft plugins](https://github.com/hazae41?tab=repositories&q=mc-) 
 
 ## Contributions
