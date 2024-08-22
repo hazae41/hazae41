@@ -2,10 +2,6 @@
 
 ### Projects I'm currently working on
 - [Brume Wallet](https://github.com/brumewallet) / The private Ethereum wallet with built-in Tor (+100 daily users)
-- [DStorage](https://github.com/hazae41/dstorage) / Origin-agnostic storage for your dapp
-- [Network](https://github.com/stars/hazae41/lists/network) / An anonymous PoW token to monetize the web
-- [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
-- [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 
 ### My user-facing projects
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor (+100 daily users)
@@ -33,6 +29,9 @@
 
 ### My frameworks
 - [Immutable](https://github.com/hazae41/immutable) / Create immutable webapps
+
+### My protocols
+- [Network](https://github.com/stars/hazae41/lists/network) / An anonymous PoW token to monetize the web
 
 ### My protocol libraries
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
