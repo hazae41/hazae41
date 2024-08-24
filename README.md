@@ -81,6 +81,7 @@
 - [Base64.wasm](https://github.com/hazae41/base64.wasm) / WebAssembly port of Base64 and Base64URL
 - [Sha1.wasm](https://github.com/hazae41/sha1.wasm) / WebAssembly port of SHA-1
 - [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
+- [Aes.wasm](https://github.com/hazae41/aes.wasm) / WebAssembly port of AES
 
 ### My WebAssembly bundles
 - [Network.wasm](https://github.com/hazae41/network.wasm) / WebAssembly bundle for Network
