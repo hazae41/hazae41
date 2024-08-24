@@ -78,6 +78,7 @@
 - [Ed25519.wasm](https://github.com/hazae41/ed25519.wasm) / WebAssembly port of Ed25519
 - [X25519.wasm](https://github.com/hazae41/x25519.wasm) / WebAssembly port of X25519
 - [Base16.wasm](https://github.com/hazae41/base16.wasm) / WebAssembly port of Base16
+- [Base58.wasm](https://github.com/hazae41/base58.wasm) / WebAssembly port of Base58
 - [Base64.wasm](https://github.com/hazae41/base64.wasm) / WebAssembly port of Base64 and Base64URL
 - [Sha1.wasm](https://github.com/hazae41/sha1.wasm) / WebAssembly port of SHA-1
 - [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
