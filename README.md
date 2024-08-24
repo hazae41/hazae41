@@ -79,6 +79,8 @@
 - [X25519.wasm](https://github.com/hazae41/x25519.wasm) / WebAssembly port of X25519
 - [Base16.wasm](https://github.com/hazae41/base16.wasm) / WebAssembly port of Base16
 - [Base64.wasm](https://github.com/hazae41/base64.wasm) / WebAssembly port of Base64 and Base64Url
+- [Sha1.wasm](https://github.com/hazae41/sha1.wasm) / WebAssembly port of Sha1
+- [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of Sha3
 
 ### My WebAssembly bundles
 - [Network.wasm](https://github.com/hazae41/network.wasm) / WebAssembly bundle for Network
