@@ -80,6 +80,9 @@
 - [Base16.wasm](https://github.com/hazae41/base16.wasm) / WebAssembly port of Base16
 - [Base64.wasm](https://github.com/hazae41/base64.wasm) / WebAssembly port of Base64 and Base64Url
 
+### My WebAssembly bundles
+- [Network.wasm](https://github.com/hazae41/network.wasm) / WebAssembly bundle for Network
+
 ### My algorithm adapters 
 - [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 adapter for WebAssembly and JS implementations 
 - [X25519](https://github.com/hazae41/x25519) / X25519 adapter for WebAssembly and JS implementations 
