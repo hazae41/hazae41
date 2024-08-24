@@ -83,6 +83,7 @@
 - [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
 - [Rsa.wasm](https://github.com/hazae41/aes.wasm) / WebAssembly port of RSA
 - [Aes.wasm](https://github.com/hazae41/aes.wasm) / WebAssembly port of AES
+- [Secp256k1.wasm](https://github.com/hazae41/secp256k1.wasm) / WebAssembly port of Secp256k1
 - [ChaCha20Poly1305.wasm](https://github.com/hazae41/chacha20poly1305.wasm) / WebAssembly port of ChaCha20-Poly1305
 
 ### My WebAssembly bundles
