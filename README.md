@@ -73,6 +73,7 @@
 
 ### My WebAssembly libraries
 - [Memory.wasm](https://github.com/hazae41/memory.wasm) / Zero-copy memory for WebAssembly
+- [Bitwise.wasm](https://github.com/hazae41/bitwise.wasm) / Bitwise operations for WebAssembly
 
 ### My WebAssembly ports
 - [Ed25519.wasm](https://github.com/hazae41/ed25519.wasm) / WebAssembly port of Ed25519
