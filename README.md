@@ -65,6 +65,7 @@
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 - [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
 - [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
+- [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
 
 ### My JavaScript polyfills
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
