@@ -6,7 +6,6 @@
 ### My user-facing projects
 - [Brume Wallet](https://github.com/brumewallet/wallet) / The private Ethereum wallet with built-in Tor (+300 daily users)
 - [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
-- [DStorage](https://github.com/hazae41/dstorage) / Origin-agnostic storage for your dapp
 - [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
 
 ### My React libraries
