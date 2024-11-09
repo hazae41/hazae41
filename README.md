@@ -26,10 +26,12 @@
 
 ### My Next.js tooling libraries
 - [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
-- [NextAsImmutable](https://github.com/hazae41/next-as-immutable) / Create immutable Next.js webapps
 
 ### My frameworks
 - [Immutable](https://github.com/hazae41/immutable) / Create immutable webapps
+
+### My webapp starters
+- [NextAsImmutable](https://github.com/hazae41/next-as-immutable) / An immutable Next.js webapp starter
 
 ### My protocols
 - [Network](https://github.com/stars/hazae41/lists/network) / An anonymous PoW token to monetize the web
