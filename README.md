@@ -13,6 +13,9 @@
 - [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
 - [CloseContext](https://github.com/hazae41/react-close-context) / CloseContext provides a `close(force?)` function to React
 
+### My CSS frameworks
+- [LaBase](https://github.com/hazae41/labase) / The Tailwind framework for monochrome apps
+
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
