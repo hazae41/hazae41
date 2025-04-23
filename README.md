@@ -73,6 +73,7 @@
 - [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
 - [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
 - [Hex](https://github.com/hazae41/hex) / Hexadecimal string types
+- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 
 ### My JavaScript polyfills
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
