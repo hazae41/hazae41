@@ -20,6 +20,7 @@
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
+- [Hex](https://github.com/hazae41/hex) / Hexadecimal string types
 
 ### My tooling libraries
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
@@ -72,6 +73,7 @@
 - [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 - [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
 - [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
+- [Hex](https://github.com/hazae41/hex) / Hexadecimal string types
 
 ### My JavaScript polyfills
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
