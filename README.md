@@ -19,6 +19,7 @@
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
 - [Hex](https://github.com/hazae41/hex) / Hexadecimal string types
+- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 
 ### My tooling libraries
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
