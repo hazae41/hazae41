@@ -16,9 +16,9 @@
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
+- [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
-- [Hex](https://github.com/hazae41/hex) / Hexadecimal string types
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 
 ### My tooling libraries
@@ -72,7 +72,7 @@
 - [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 - [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
 - [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
-- [Hex](https://github.com/hazae41/hex) / Hexadecimal string types
+- [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 
 ### My JavaScript polyfills
