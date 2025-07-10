@@ -47,6 +47,7 @@
 - [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
 
 ### My parsing libraries
+- [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for TypeScript
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
