@@ -1,5 +1,3 @@
-## Maintained projects
-
 ### My user-facing projects
 - [Brume Wallet](https://github.com/brumeproject/wallet) / The private Ethereum wallet with built-in Tor (+300 daily users)
 - [Brume Cash](https://github.com/brumeproject/cash) / PoW-based private instant free payment network
@@ -107,22 +105,3 @@
 - [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 - [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20Poly1305 adapter for WebAssembly and JS implementations
 - [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
-
-## Unmaintained projects
-
-### My old WebAssembly ports
-- [Naberius](https://github.com/hazae41/naberius) / WebAssembly bits processing utilities (unpack, pack, xor) 
-- [Foras](https://github.com/hazae41/foras) / WebAssembly port of Deflate, Gzip, and Zlib compression algorithms (+110 ⭐) 
-- [Berith](https://github.com/hazae41/berith) / WebAssembly port of Ed25519 signatures and X25519 key exchange 
-- [Paimon](https://github.com/hazae41/paimon) / WebAssembly port of RSA encryption and signatures 
-- [Zepar](https://github.com/hazae41/zepar) / WebAssembly port of Aes128Ctr128Be and ChaCha20Poly1305 encryption algorithms 
-- [Morax](https://github.com/hazae41/morax) / WebAssembly port of SHA-1, SHA-256, Keccak-256, RIPEMD-160, and CRC-32 hashing algorithms 
-- [Alocer](https://github.com/hazae41/alocer) / WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms 
-- [Eligos](https://github.com/hazae41/eligos) / WebAssembly port of Secp256k1 signatures and key exchange
-
-### [My Minecraft plugins](https://github.com/hazae41?tab=repositories&q=mc-) 
-
-## Contributions
-
-### Deno
-- [Deno](https://github.com/denoland/deno) / A secure JavaScript and TypeScript runtime
