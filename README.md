@@ -92,6 +92,7 @@
 - [Ripemd.wasm](https://github.com/hazae41/ripemd.wasm) / WebAssembly port of RIPEMD
 - [Secp256k1.wasm](https://github.com/hazae41/secp256k1.wasm) / WebAssembly port of Secp256k1
 - [ChaCha20Poly1305.wasm](https://github.com/hazae41/chacha20poly1305.wasm) / WebAssembly port of ChaCha20-Poly1305
+- [Argon2.wasm](https://github.com/hazae41/argon2.wasm) / WebAssembly port of Argon2
 
 ### My WebAssembly bundles
 - [Network.wasm](https://github.com/hazae41/network.wasm) / WebAssembly bundle for Network
@@ -105,3 +106,4 @@
 - [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 - [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20Poly1305 adapter for WebAssembly and JS implementations
 - [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
+- [Argon2](https://github.com/hazae41/argon2) / Argon2 adapter for WebAssembly and JS implementations
