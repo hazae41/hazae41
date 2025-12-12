@@ -34,7 +34,7 @@
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
 
-### My Next.js tools (deprecated)
+### My Next.js tools
 - [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
 
 ### My network tools
