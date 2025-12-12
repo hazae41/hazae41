@@ -4,9 +4,10 @@
 ### My webapp starter
 - [Starter](https://github.com/hazae41/starter) / Start a secure webapp with React and Tailwind
 
-### My webapp libraries
+### My general webapp libraries
 - [Glace](https://github.com/hazae41/glace) / Build a webapp with security in mind
 - [Immutable](https://github.com/hazae41/immutable) / Create immutable webapps
+- [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 
 ### My React libraries
 - [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
@@ -27,8 +28,10 @@
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
+- [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 
 ### My developer libraries
+- [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
@@ -37,7 +40,9 @@
 ### My Next.js libraries
 - [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
 
-### My network libraries
+### My protocol libraries
+- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
+- [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
 - [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
 - [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
 - [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
@@ -45,34 +50,25 @@
 - [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
 
 ### My parsing libraries
+- [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
+- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
 - [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for TypeScript
 - [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
 - [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
 ### My general libraries
-- [Bytes](https://github.com/hazae41/bytes) / Utilities to deal with Uint8Array
+- [Result and Option](https://github.com/hazae41/result-and-option) / Rust-like Result and Option for TypeScript
+- [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex and Semaphore for TypeScript
+- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 - [Signals](https://github.com/hazae41/signals) / Utilities to deal with AbortSignal
-- [Arrays](https://github.com/hazae41/arrays) / Utilities to deal with arrays
 - [Cascade](https://github.com/hazae41/cascade) / Never let streams give you a headache again
 - [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
-- [Future](https://github.com/hazae41/future) / Just like a Promise but you can manually resolve or reject it
-- [Disposer](https://github.com/hazae41/disposer) / A wrapper for an object with a dispose function
-- [Result](https://github.com/hazae41/result) / Rust-like Result for TypeScript
-- [Option](https://github.com/hazae41/option) / Rust-like Option for TypeScript
-- [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
-- [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex and Semaphore for TypeScript
 - [Box](https://github.com/hazae41/box) / Rust-like Box for TypeScript
-- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
-- [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
-- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
 - [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 - [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
-- [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
-- [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
 - [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
 - [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
-- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 
 ### My general polyfills
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
