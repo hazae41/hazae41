@@ -2,7 +2,7 @@
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
 ### My webapp starter
-- [Starter](https://github.com/hazae41/starter) / Start a secure webapp with React and Tailwind
+- [Create Secure Webapp](https://github.com/hazae41/create-secure-webapp) / Start a secure webapp with React and Tailwind
 
 ### My general webapp libraries
 - [Glace](https://github.com/hazae41/glace) / Build a webapp with security in mind
