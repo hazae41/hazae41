@@ -1,7 +1,7 @@
 ### My blockchain runtimes
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
-### My webapp starter
+### My webapp starters
 - [Create Secure Webapp](https://github.com/hazae41/create-secure-webapp) / Start a secure webapp with React and Tailwind
 
 ### My general webapp libraries
