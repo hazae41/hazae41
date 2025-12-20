@@ -2,7 +2,7 @@
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
 ### My blockchain modules starters
-- [Create Bobine AssemblyScript Module](https://github.com/hazae41/create-bobine-assemblyscript-module) / Create and deploy your own Bobine module in AssemblyScript
+- [Create Bobine Module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
 
 ### My webapp starters
 - [Create Secure Webapp](https://github.com/hazae41/create-secure-webapp) / Make a secure webapp with React and Tailwind
