@@ -24,9 +24,6 @@
 ### My Bobine runtimes
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
-### My Bobine modules starters
-- [Create Bobine Module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
-
 ### Other Bobine things
 - [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
