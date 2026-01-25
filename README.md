@@ -25,7 +25,7 @@
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
 ### My blockchain ecosystems
-- [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / Curated list on Bobine ecosystem
+- [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
 ### My blockchain modules starters
 - [Create Bobine Module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
