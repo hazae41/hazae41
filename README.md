@@ -1,13 +1,9 @@
-### My blockchain runtimes
-- [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
-
-### My blockchain modules starters
-- [Create Bobine Module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
+## Webapps
 
 ### My webapp starters
 - [Create Secure Webapp](https://github.com/hazae41/create-secure-webapp) / Make a secure webapp with React and Tailwind
 
-### My general webapp libraries
+### My webapp libraries
 - [Glace](https://github.com/hazae41/glace) / Build a webapp with security in mind
 - [Immutable](https://github.com/hazae41/immutable) / Create immutable webapps
 - [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
@@ -17,8 +13,22 @@
 - [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 - [CloseContext](https://github.com/hazae41/react-close-context) / CloseContext provides a `close(force?)` function to React
 
+### My Next.js libraries
+- [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
+
 ### My CSS libraries
 - [LaBase](https://github.com/hazae41/labase) / The Tailwind framework for monochrome apps
+
+## Blockchain
+
+### My blockchain runtimes
+- [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
+
+### My blockchain ecosystems
+- [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / Curated list on Bobine ecosystem
+
+### My blockchain modules starters
+- [Create Bobine Module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
 
 ### My Ethereum webapps
 - [Brume Wallet](https://github.com/brumeproject/wallet) / The private Ethereum wallet with built-in Tor (+300 daily users)
@@ -31,7 +41,8 @@
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
-- [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
+
+## General
 
 ### My developer libraries
 - [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
@@ -39,25 +50,6 @@
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
-
-### My Next.js libraries
-- [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
-
-### My protocol libraries
-- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
-- [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
-- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
-- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
-- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
-- [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web
-- [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
-
-### My parsing libraries
-- [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
-- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
-- [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for TypeScript
-- [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
-- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
 ### My general libraries
 - [Result and Option](https://github.com/hazae41/result-and-option) / Rust-like Result and Option for TypeScript
@@ -77,6 +69,24 @@
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
 - [disposable-stack-polyfill](https://github.com/hazae41/disposable-stack-polyfill) / Polyfill for DisposableStack and AsyncDisposableStack
 - [worker-online-polyfill](https://github.com/hazae41/worker-online-polyfill) / Polyfill for online and offline events on WebWorkers
+
+## Protocols
+
+### My protocol libraries
+- [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
+- [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
+- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
+- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
+- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
+- [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web
+- [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
+
+### My parsing libraries
+- [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
+- [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
+- [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for TypeScript
+- [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
+- [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
 ### My algorithm libraries 
 - [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations 
