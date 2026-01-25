@@ -21,13 +21,13 @@
 
 ## Blockchain
 
-### My blockchain runtimes
+### My Bobine runtimes
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 
-### My blockchain ecosystems
+### My Bobine curated lists
 - [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
-### My blockchain modules starters
+### My Bobine modules starters
 - [Create Bobine Module](https://github.com/hazae41/create-bobine-module) / Create and deploy your own Bobine module in AssemblyScript
 
 ### My Ethereum webapps
