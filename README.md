@@ -21,10 +21,8 @@
 
 ## Blockchain
 
-### My Bobine runtimes
+### My blockchain
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
-
-### Other Bobine things
 - [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
 ### My Ethereum webapps
