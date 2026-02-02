@@ -23,6 +23,10 @@
 
 ### My blockchain libraries
 - [Clade](https://github.com/hazae41/clade) / Wallet derivation (BIP-32, SLIP-0010, XMR) for TypeScript
+- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
+- [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
+- [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
+- [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 
 ### My own blockchain
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
@@ -35,10 +39,6 @@
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
-- [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
-- [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
-- [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
-- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 
 ## General
 
