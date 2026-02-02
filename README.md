@@ -21,7 +21,10 @@
 
 ## Blockchain
 
-### My blockchain
+### My blockchain libraries
+- [Clade](https://github.com/hazae41/clade) / Wallet derivation (BIP-32, SLIP-0010, XMR) for TypeScript
+
+### My own blockchain
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
 - [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
