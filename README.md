@@ -22,7 +22,8 @@
 ## Blockchain
 
 ### My blockchain libraries
-- [Clade](https://github.com/hazae41/clade) / Wallet derivation (BIP-32, SLIP-0010) for TypeScript
+- [Clade](https://github.com/hazae41/clade) / Account derivation (BIP-32, SLIP-0010) for TypeScript
+- [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for TypeScript
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
 - [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
