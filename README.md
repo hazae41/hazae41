@@ -31,6 +31,7 @@
 
 ### My own blockchain
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
+- [OpenBob](https://github.com/hazae41/openbob) / Directory of standardized Bobine modules
 - [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
 ### My Ethereum webapps
