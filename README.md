@@ -1,6 +1,6 @@
 ## Masterpieces
 
-- [Brume](https//brume.tech) / Technologies to hide yourself in plain sight
+- [Brume](https://brume.tech) / Technologies to hide yourself in plain sight
 
 - [Bobine](https://bobine.tech) / A blockchain in your garage
 
