@@ -1,3 +1,9 @@
+## Masterpieces
+
+- [Brume](https//brume.tech) / Technologies to hide yourself in plain sight
+
+- [Bobine](https://bobine.tech) / A blockchain in your garage
+
 ## Webapps
 
 ### My webapp starters
