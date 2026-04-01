@@ -75,6 +75,7 @@
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
 - [disposable-stack-polyfill](https://github.com/hazae41/disposable-stack-polyfill) / Polyfill for DisposableStack and AsyncDisposableStack
 - [worker-online-polyfill](https://github.com/hazae41/worker-online-polyfill) / Polyfill for online and offline events on WebWorkers
+- [request-idle-callback-polyfill](https://github.com/hazae41/request-idle-callback-polyfill) / Polyfill for requestIdleCallback
 
 ## Protocols
 
