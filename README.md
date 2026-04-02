@@ -80,11 +80,12 @@
 ## Protocols
 
 ### My protocol libraries
+- [Pendule (TOTP)](https://github.com/hazae41/pendule) / Time-based one-time passcodes (TOTP) for the web
 - [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
 - [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
-- [Echalote](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
-- [Cadenas](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
-- [Fleche](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
+- [Echalote (Tor)](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
+- [Cadenas (TLS)](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
+- [Fleche (HTTP/WS)](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
 - [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web
 - [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
 
