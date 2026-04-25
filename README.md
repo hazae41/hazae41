@@ -32,7 +32,7 @@
 - [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for TypeScript
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
-- [Latrine](https://github.com/hazae41/latrine) / Secure and private reimplementation of the WalletConnect protocol
+- [Latrine](https://github.com/hazae41/latrine) / Secure and private WalletConnect client
 - [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 
 ### My own blockchain
