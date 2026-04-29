@@ -58,17 +58,15 @@
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
 
 ### My general libraries
+- [Plume](https://github.com/hazae41/plume) / Respondable and extendable events for the web
 - [Result and Option](https://github.com/hazae41/result-and-option) / Rust-like Result and Option for TypeScript
+- [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
 - [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex and Semaphore for TypeScript
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
-- [Signals](https://github.com/hazae41/signals) / Utilities to deal with AbortSignal
 - [Cascade](https://github.com/hazae41/cascade) / Never let streams give you a headache again
 - [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
-- [Box](https://github.com/hazae41/box) / Rust-like Box for TypeScript
 - [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
-- [Plume](https://github.com/hazae41/plume) / Typed async events with sequenced and parallel dispatching
 - [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
-- [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
 - [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 
 ### My general polyfills
