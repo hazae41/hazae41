@@ -2,9 +2,11 @@
 
 🟠 = Still working fine
 
-## Masterpieces
+## Companies
 
 - 🟢 [Brume](https://brume.tech) / Technologies to hide yourself in plain sight
+
+## Masterpieces
 
 - 🟢 [Bobine](https://bobine.tech) / A blockchain in your garage
 
