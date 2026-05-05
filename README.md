@@ -1,6 +1,6 @@
-🟢 = Highest standards, will reply quickly
+🟢 = Highest standards
 
-🟠 = Still working fine, will probably reply
+🟠 = Still working fine
 
 ## Masterpieces
 
