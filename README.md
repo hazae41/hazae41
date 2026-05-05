@@ -29,10 +29,9 @@
 ### My blockchain libraries
 - [Clade](https://github.com/hazae41/clade) / Account derivation (BIP-32, SLIP-0010) for TypeScript
 - [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for TypeScript
+- [Latrine](https://github.com/hazae41/latrine) / Secure and private WalletConnect client
 - [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 - [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
-- [Latrine](https://github.com/hazae41/latrine) / Secure and private WalletConnect client
-- [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 
 ### My own blockchain
 - [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
