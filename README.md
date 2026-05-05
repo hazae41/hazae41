@@ -41,7 +41,6 @@
 ### My Ethereum webapps
 - [Brume Wallet](https://github.com/brumeproject/wallet) / The private Ethereum wallet with built-in Tor (+300 daily users)
 - [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
-- [Sighash](https://github.com/stars/hazae41/lists/sighash) / Decentralized Ethereum function signature database
 
 ### My Ethereum libraries
 - [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
