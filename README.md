@@ -1,8 +1,6 @@
 🟢 = Highest standards, will reply quickly
 
-🟠 = Working fine, will probably reply
-
-Not there = Use at your own risk, won't reply
+🟠 = Still working fine, will probably reply
 
 ## Masterpieces
 
