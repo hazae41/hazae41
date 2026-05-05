@@ -47,24 +47,17 @@
 
 ## General
 
-### My developer libraries
-- [Gardien](https://github.com/hazae41/gardien) / Runtime schema validation and parsing
-- [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
+### My meta-programming libraries
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
 - [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
+- [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 
 ### My general libraries
-- [Plume](https://github.com/hazae41/plume) / Respondable and extendable events for the web
 - [Result and Option](https://github.com/hazae41/result-and-option) / Rust-like Result and Option for TypeScript
+- [Plume](https://github.com/hazae41/plume) / Respondable and extendable events for the web
+- [Gardien](https://github.com/hazae41/gardien) / Runtime schema validation and parsing
 - [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
-- [Mutex](https://github.com/hazae41/mutex) / Rust-like Mutex and Semaphore for TypeScript
-- [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
-- [Cascade](https://github.com/hazae41/cascade) / Never let streams give you a headache again
-- [Bitset](https://github.com/hazae41/bitset) / Utilities to deal with arithmetic bitwise operations
-- [Piscine](https://github.com/hazae41/piscine) / Create async pools with automatic retry
-- [Decibel](https://github.com/hazae41/decibel) / Queriable in-memory database for TypeScript
-- [Hexane](https://github.com/hazae41/hexane) / Hexadecimal string types
 
 ### My general polyfills
 - [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
