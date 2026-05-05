@@ -51,7 +51,7 @@
 ## General
 
 ### My developer libraries
-- [Gardien](https://github.com/hazae41/gardien) / A lightweight and standard Zod alternative with fully type-safe inference
+- [Gardien](https://github.com/hazae41/gardien) / Runtime schema validation and parsing
 - [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 - [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
