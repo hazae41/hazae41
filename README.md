@@ -16,7 +16,6 @@
 
 ### My React libraries
 - [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
-- [Glacier](https://github.com/hazae41/glacier) / Keep your data fresh (+120 ⭐)
 - [CloseContext](https://github.com/hazae41/react-close-context) / CloseContext provides a `close(force?)` function to React
 
 ### My Next.js libraries
