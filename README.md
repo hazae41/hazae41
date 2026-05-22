@@ -33,11 +33,11 @@
 ## Blockchain
 
 ### My blockchain libraries
-- 🟢 [Clade](https://github.com/hazae41/clade) / Account derivation (BIP-32, SLIP-0010) for TypeScript
-- 🟢 [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for TypeScript
+- 🟢 [Clade](https://github.com/hazae41/clade) / Account derivation (BIP-32, SLIP-0010) for the web
+- 🟢 [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for the web
 - 🟢 [Latrine](https://github.com/hazae41/latrine) / Secure and private WalletConnect client
 - 🟠 [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
-- 🟠 [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for TypeScript
+- 🟠 [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for the web
 
 ### My own blockchain
 - 🟢 [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
@@ -49,21 +49,21 @@
 - 🟠 [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
 
 ### My Ethereum libraries
-- 🟠 [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for TypeScript
+- 🟠 [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for the web
 
 ## General
 
 ### My meta-programming libraries
 - 🟢 [Phobos](https://github.com/hazae41/phobos) / Modern and minimalist testing library for the web
 - 🟢 [Deimos](https://github.com/hazae41/deimos) / Modern and minimalist benchmarking library for the web
-- 🟢 [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for TypeScript
+- 🟢 [Saumon](https://github.com/hazae41/saumon) / Ultra simple macro system for the web
 - 🟠 [Rimraf](https://github.com/hazae41/rimraf) / Minimalist and supply-chain hardened rimraf
 
 ### My general libraries
-- 🟢 [Result and Option](https://github.com/hazae41/result-and-option) / Rust-like Result and Option for TypeScript
+- 🟢 [Result and Option](https://github.com/hazae41/result-and-option) / Rust-like Result and Option for the web
 - 🟢 [Plume](https://github.com/hazae41/plume) / Respondable and extendable events for the web
-- 🟢 [Gardien](https://github.com/hazae41/gardien) / Runtime schema validation and parsing
-- 🟢 [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for TypeScript
+- 🟢 [Gardien](https://github.com/hazae41/gardien) / Runtime schema validation and parsing for the web
+- 🟢 [Serac](https://github.com/hazae41/serac) / Garbage-collectable persistent key-value database for the web
 
 ### My general polyfills
 - 🟢 [symbol-dispose-polyfill](https://github.com/hazae41/symbol-dispose-polyfill) / Polyfill for Symbol.dispose and Symbol.asyncDispose
@@ -75,18 +75,19 @@
 
 ### My protocol libraries
 - 🟢 [Pendule (TOTP)](https://github.com/hazae41/pendule) / Time-based one-time passcodes (TOTP) for the web
-- 🟢 [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for TypeScript
-- 🟠 [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for TypeScript
+- 🟢 [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for the web
+- 🟠 [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for the web
 - 🟠 [Echalote (Tor)](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
 - 🟠 [Cadenas (TLS)](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
 - 🟠 [Fleche (HTTP/WS)](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
 - 🟠 [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web
 - 🟠 [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
 
-### My parsing libraries
-- 🟢 [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for TypeScript
-- 🟢 [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types 
-- 🟢 [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for TypeScript
+### My encoding/decoding libraries
+- 🟢 [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for the web
+- 🟢 [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types for the web
+- 🟢 [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for the web
+- 🟢 [Base32](https://github.com/hazae41/base32) / Base32 (RFC 4648) for the web
 - 🟠 [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
 - 🟠 [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
