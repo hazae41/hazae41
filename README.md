@@ -88,6 +88,7 @@
 - 🟢 [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types for the web
 - 🟢 [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for the web
 - 🟢 [Base32](https://github.com/hazae41/base32) / Base32 (RFC 4648) for the web
+- 🟢 [Base58](https://github.com/hazae41/base58) / Base58 for the web
 - 🟠 [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
 - 🟠 [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
 
@@ -96,7 +97,6 @@
 - 🟢 [Argon2](https://github.com/hazae41/argon2) / Argon2 adapter for WebAssembly and JS implementations
 - 🟠 [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations 
 - 🟠 [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for WebAssembly and JS implementations 
-- 🟠 [Base58](https://github.com/hazae41/base58) / Base58 adapter for WebAssembly and JS implementations
 - 🟠 [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
 - 🟠 [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
 
@@ -105,7 +105,6 @@
 - 🟢 [ChaCha20Poly1305.wasm](https://github.com/hazae41/chacha20poly1305.wasm) / WebAssembly port of ChaCha20-Poly1305
 - 🟢 [Argon2.wasm](https://github.com/hazae41/argon2.wasm) / WebAssembly port of Argon2
 - 🟠 [Bitwise.wasm](https://github.com/hazae41/bitwise.wasm) / Bitwise operations for WebAssembly
-- 🟠 [Base58.wasm](https://github.com/hazae41/base58.wasm) / WebAssembly port of Base58
 - 🟠 [Sha1.wasm](https://github.com/hazae41/sha1.wasm) / WebAssembly port of SHA-1
 - 🟠 [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
 - 🟠 [Rsa.wasm](https://github.com/hazae41/aes.wasm) / WebAssembly port of RSA
