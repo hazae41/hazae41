@@ -21,6 +21,7 @@
 - 🟢 [WebAuthnStorage](https://github.com/hazae41/webauthnstorage) / Deterministic storage using WebAuthn
 
 ### My React libraries
+- 🟢 [Modal](https://github.com/hazae41/modal) / Convenient modals for your React webapp
 - 🟢 [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
 - 🟢 [CloseContext](https://github.com/hazae41/react-close-context) / CloseContext provides a `close(force?)` function to React
 
