@@ -72,7 +72,7 @@
 - 🟢 [request-idle-callback-polyfill](https://github.com/hazae41/request-idle-callback-polyfill) / Polyfill for requestIdleCallback
 - 🟠 [worker-online-polyfill](https://github.com/hazae41/worker-online-polyfill) / Polyfill for online and offline events on WebWorkers
 
-## Protocols
+## Low-level
 
 ### My protocol libraries
 - 🟢 [Pendule (TOTP)](https://github.com/hazae41/pendule) / Time-based one-time passcodes (TOTP) for the web
