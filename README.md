@@ -102,13 +102,12 @@
 - 🟠 [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
 
 ### My WebAssembly libraries
-- 🟢 [Memory.wasm](https://github.com/hazae41/memory.wasm) / Zero-copy memory for WebAssembly
+- 🟢 [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
+- 🟢 [Secp256k1.wasm](https://github.com/hazae41/secp256k1.wasm) / WebAssembly port of Secp256k1
 - 🟢 [ChaCha20Poly1305.wasm](https://github.com/hazae41/chacha20poly1305.wasm) / WebAssembly port of ChaCha20-Poly1305
 - 🟢 [Argon2.wasm](https://github.com/hazae41/argon2.wasm) / WebAssembly port of Argon2
 - 🟠 [Bitwise.wasm](https://github.com/hazae41/bitwise.wasm) / Bitwise operations for WebAssembly
 - 🟠 [Sha1.wasm](https://github.com/hazae41/sha1.wasm) / WebAssembly port of SHA-1
-- 🟠 [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
 - 🟠 [Rsa.wasm](https://github.com/hazae41/aes.wasm) / WebAssembly port of RSA
 - 🟠 [Aes.wasm](https://github.com/hazae41/aes.wasm) / WebAssembly port of AES
 - 🟠 [Ripemd.wasm](https://github.com/hazae41/ripemd.wasm) / WebAssembly port of RIPEMD
-- 🟠 [Secp256k1.wasm](https://github.com/hazae41/secp256k1.wasm) / WebAssembly port of Secp256k1
