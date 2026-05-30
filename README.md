@@ -76,22 +76,22 @@
 
 ### My protocol libraries
 - 🟢 [Pendule (TOTP)](https://github.com/hazae41/pendule) / Time-based one-time passcodes (TOTP) for the web
-- 🟢 [JSON-RPC](https://github.com/hazae41/jsonrpc) / Rust-like JSON-RPC protocol for the web
-- 🟠 [APDU](https://github.com/hazae41/apdu) / Rust-like APDU protocol for the web
-- 🟠 [Echalote (Tor)](https://github.com/hazae41/echalote) / Zero-copy Tor protocol for the web (JS + WebAssembly)
-- 🟠 [Cadenas (TLS)](https://github.com/hazae41/cadenas) / Zero-copy TLS protocol for the web (JS + WebAssembly)
-- 🟠 [Fleche (HTTP/WS)](https://github.com/hazae41/fleche) / Zero-copy HTTP protocol for the web (JS + WebAssembly)
-- 🟠 [KCP](https://github.com/hazae41/kcp) / Zero-copy KCP protocol for the web
-- 🟠 [SMUX](https://github.com/hazae41/smux) / Zero-copy SMUX protocol for the web
+- 🟢 [JSON-RPC](https://github.com/hazae41/jsonrpc) / JSON-RPC protocol for the web
+- 🟠 [APDU](https://github.com/hazae41/apdu) / APDU protocol for the web
+- 🟠 [Echalote (Tor)](https://github.com/hazae41/echalote) / Tor protocol for the web (JS + WebAssembly)
+- 🟠 [Cadenas (TLS)](https://github.com/hazae41/cadenas) / TLS protocol for the web (JS + WebAssembly)
+- 🟠 [Fleche (HTTP/WS)](https://github.com/hazae41/fleche) / HTTP protocol for the web (JS + WebAssembly)
+- 🟠 [KCP](https://github.com/hazae41/kcp) / KCP protocol for the web
+- 🟠 [SMUX](https://github.com/hazae41/smux) / SMUX protocol for the web
 
 ### My encoding/decoding libraries
-- 🟢 [Cursor](https://github.com/hazae41/cursor) / Rust-like Cursor for the web
+- 🟢 [Cursor](https://github.com/hazae41/cursor) / Binary cursor for the web
 - 🟢 [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types for the web
-- 🟢 [KDBX](https://github.com/hazae41/kdbx) / Rust-like KeePass (KDBX 4) file format for the web
+- 🟢 [KDBX](https://github.com/hazae41/kdbx) / KeePass (KDBX 4) file format for the web
 - 🟢 [Base32](https://github.com/hazae41/base32) / Base32 (RFC 4648) for the web
 - 🟢 [Base58](https://github.com/hazae41/base58) / Base58 for the web
-- 🟠 [X509](https://github.com/hazae41/x509) / Zero-copy X.509 certificates for the web
-- 🟠 [ASN1](https://github.com/hazae41/asn1) / Zero-copy ASN.1 <=> DER encoding for the web
+- 🟠 [X509](https://github.com/hazae41/x509) / X.509 certificates for the web
+- 🟠 [ASN1](https://github.com/hazae41/asn1) / ASN.1 and DER encoding for the web
 
 ### My algorithm libraries and WebAssembly adapters
 - 🟢 [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20Poly1305 adapter for WebAssembly and JS implementations
