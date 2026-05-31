@@ -93,13 +93,13 @@
 - 🟠 [X509](https://github.com/hazae41/x509) / X.509 certificates for the web
 - 🟠 [ASN1](https://github.com/hazae41/asn1) / ASN.1 and DER encoding for the web
 
-### My algorithm libraries and WebAssembly adapters
-- 🟢 [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20Poly1305 adapter for WebAssembly and JS implementations
-- 🟢 [Argon2](https://github.com/hazae41/argon2) / Argon2 adapter for WebAssembly and JS implementations
-- 🟠 [Sha1](https://github.com/hazae41/sha1) / SHA-1 adapter for WebAssembly and JS implementations 
-- 🟠 [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 adapter for WebAssembly and JS implementations 
-- 🟠 [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 adapter for WebAssembly and JS implementations
-- 🟠 [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 adapter for WebAssembly and JS implementations
+### My cryptography libraries
+- 🟢 [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 for the web
+- 🟢 [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20-Poly1305 for the web
+- 🟢 [Argon2](https://github.com/hazae41/argon2) / Argon2 for the web
+- 🟠 [Sha1](https://github.com/hazae41/sha1) / SHA-1 for the web
+- 🟠 [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 for the web
+- 🟠 [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 for the web
 
 ### My WebAssembly libraries
 - 🟢 [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
