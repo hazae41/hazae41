@@ -97,6 +97,7 @@
 - 🟢 [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 for the web
 - 🟢 [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 for the web
 - 🟢 [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20-Poly1305 for the web
+- 🟢 [ChaCha20](https://github.com/hazae41/chacha20) / ChaCha20 for the web
 - 🟢 [Argon2](https://github.com/hazae41/argon2) / Argon2 for the web
 - 🟠 [Sha1](https://github.com/hazae41/sha1) / SHA-1 for the web
 - 🟠 [Ripemd160](https://github.com/hazae41/ripemd160) / RIPEMD-160 for the web
