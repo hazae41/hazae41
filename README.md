@@ -33,6 +33,11 @@
 
 ## Blockchain
 
+### My own blockchain
+- 🟢 [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
+- 🟢 [OpenBob](https://github.com/hazae41/openbob) / Directory of standardized Bobine modules
+- 🟢 [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
+
 ### My blockchain libraries
 - 🟢 [Clade](https://github.com/hazae41/clade) / Account derivation (BIP-32, SLIP-0010) for the web
 - 🟢 [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for the web
@@ -40,17 +45,11 @@
 - 🟠 [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 - 🟠 [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for the web
 
-### My own blockchain
-- 🟢 [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
-- 🟢 [OpenBob](https://github.com/hazae41/openbob) / Directory of standardized Bobine modules
-- 🟢 [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
-
-### My Ethereum webapps
-- 🟢 [Brume Wallet](https://github.com/brumeproject/wallet) / The private Ethereum wallet with built-in Tor (+300 daily users)
-- 🟠 [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
-
 ### My Ethereum libraries
 - 🟢 [RLP](https://github.com/hazae41/rlp) / RLP encoding for the web
+
+### My Ethereum webapps
+- 🟠 [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
 
 ## General
 
