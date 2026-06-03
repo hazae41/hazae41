@@ -50,7 +50,7 @@
 - 🟠 [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
 
 ### My Ethereum libraries
-- 🟠 [Cubane](https://github.com/hazae41/cubane) / Next-gen Ethereum library for the web
+- 🟢 [RLP](https://github.com/hazae41/rlp) / RLP encoding for the web
 
 ## General
 
@@ -87,6 +87,7 @@
 ### My encoding/decoding libraries
 - 🟢 [Cursor](https://github.com/hazae41/cursor) / Binary cursor for the web
 - 🟢 [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types for the web
+- 🟢 [RLP](https://github.com/hazae41/rlp) / RLP encoding for the web
 - 🟢 [KDBX](https://github.com/hazae41/kdbx) / KeePass (KDBX 4) file format for the web
 - 🟢 [Base32](https://github.com/hazae41/base32) / Base32 (RFC 4648) for the web
 - 🟢 [Base58](https://github.com/hazae41/base58) / Base58 for the web
