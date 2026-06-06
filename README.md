@@ -39,10 +39,10 @@
 - 🟢 [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
 ### My blockchain libraries
+- 🟢 [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers for the web
 - 🟢 [Clade](https://github.com/hazae41/clade) / Account derivation (BIP-32, SLIP-0010) for the web
 - 🟢 [Broca](https://github.com/hazae41/broca) / Mnemonic derivation (BIP-39, Monero) for the web
 - 🟢 [Latrine](https://github.com/hazae41/latrine) / Secure and private WalletConnect client
-- 🟠 [Fixed](https://github.com/hazae41/fixed) / Fixed-point numbers in idiomatic TypeScript
 - 🟠 [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for the web
 
 ### My Ethereum libraries
