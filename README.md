@@ -46,6 +46,7 @@
 - 🟠 [Ledger](https://github.com/hazae41/ledger) / Private and supply-chain hardened Ledger controller for the web
 
 ### My Ethereum libraries
+- 🟢 [ABI](https://github.com/hazae41/abi) / ABI encoding for the web
 - 🟢 [RLP](https://github.com/hazae41/rlp) / RLP encoding for the web
 
 ### My Ethereum webapps
