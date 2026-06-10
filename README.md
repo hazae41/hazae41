@@ -49,6 +49,7 @@
 - 🟢 [RLP](https://github.com/hazae41/rlp) / RLP encoding for the web
 - 🟢 [EIP-712](https://github.com/hazae41/eip712) / EIP-712 encoding for the web
 - 🟢 [EIP-155](https://github.com/hazae41/eip155) / EIP-155 transactions for the web
+- 🟢 [EIP-2718](https://github.com/hazae41/eip2718) / EIP-2718 transactions for the web
 
 ### My Ethereum webapps
 - 🟠 [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
