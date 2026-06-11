@@ -50,6 +50,7 @@
 - 🟢 [EIP-712](https://github.com/hazae41/eip712) / EIP-712 encoding for the web
 - 🟢 [EIP-155](https://github.com/hazae41/eip155) / EIP-155 transactions for the web
 - 🟢 [EIP-2718](https://github.com/hazae41/eip2718) / EIP-2718 transactions for the web
+- 🟢 [EIP-2930](https://github.com/hazae41/eip2930) / EIP-2930 transactions for the web
 - 🟢 [EIP-1559](https://github.com/hazae41/eip1559) / EIP-1559 transactions for the web
 
 ### My Ethereum webapps
