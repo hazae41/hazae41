@@ -47,6 +47,7 @@
 ### My Ethereum libraries
 - 🟢 [ABI](https://github.com/hazae41/abi) / ABI encoding for the web
 - 🟢 [RLP](https://github.com/hazae41/rlp) / RLP encoding for the web
+- 🟢 [EIP-55](https://github.com/hazae41/eip55) / EIP-712 addresses for the web
 - 🟢 [EIP-712](https://github.com/hazae41/eip712) / EIP-712 encoding for the web
 - 🟢 [EIP-155](https://github.com/hazae41/eip155) / EIP-155 transactions for the web
 - 🟢 [EIP-2718](https://github.com/hazae41/eip2718) / EIP-2718 transactions for the web
