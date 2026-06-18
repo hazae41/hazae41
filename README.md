@@ -105,6 +105,7 @@
 
 ### My cryptography libraries
 - 🟢 [Keccak256](https://github.com/hazae41/keccak256) / Keccak-256 for the web
+- 🟢 [Ed25519](https://github.com/hazae41/ed25519) / Ed25519 for the web
 - 🟢 [Secp256k1](https://github.com/hazae41/secp256k1) / Secp256k1 for the web
 - 🟢 [ChaCha20Poly1305](https://github.com/hazae41/chacha20poly1305) / ChaCha20-Poly1305 for the web
 - 🟢 [ChaCha20](https://github.com/hazae41/chacha20) / ChaCha20 for the web
@@ -114,6 +115,7 @@
 
 ### My WebAssembly libraries
 - 🟢 [Sha3.wasm](https://github.com/hazae41/sha3.wasm) / WebAssembly port of SHA-3
+- 🟢 [Ed25519.wasm](https://github.com/hazae41/ed25519.wasm) / WebAssembly port of Ed25519
 - 🟢 [Secp256k1.wasm](https://github.com/hazae41/secp256k1.wasm) / WebAssembly port of Secp256k1
 - 🟢 [ChaCha20Poly1305.wasm](https://github.com/hazae41/chacha20poly1305.wasm) / WebAssembly port of ChaCha20-Poly1305
 - 🟢 [ChaCha20.wasm](https://github.com/hazae41/chacha20.wasm) / WebAssembly port of ChaCha20
