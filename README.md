@@ -24,7 +24,7 @@
 - 🟢 [Modal](https://github.com/hazae41/modal) / Convenient modals for your React webapp
 - 🟢 [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
 - 🟢 [CloseContext](https://github.com/hazae41/react-close-context) / React context to provide a close function
-- 🟢 [ServerContext](https://github.com/hazae41/react-server-context) / React context for server-side branching
+- 🟢 [ClientContext](https://github.com/hazae41/react-client-context) / React context for server-side branching
 
 ### My Next.js libraries
 - 🟠 [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
