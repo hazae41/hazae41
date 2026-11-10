@@ -8,7 +8,7 @@
 
 ## Companies
 
-- 🟢 [Brume](/brume256) / Technologies to hide yourself in plain sight
+- 🟢 [Brume](https://github.com/brume256) / Technologies to hide yourself in plain sight
 
 ## Webapp stuff
 
