@@ -8,11 +8,7 @@
 
 ## Companies
 
-- 🟢 [Brume](https://brume.tech) / Technologies to hide yourself in plain sight
-
-## Masterpieces
-
-- 🟢 [Bobine](https://bobine.tech) / A blockchain in your garage
+- 🟢 [Brume](/brume256) / Technologies to hide yourself in plain sight
 
 ## Webapp stuff
 
@@ -27,13 +23,14 @@
 ### My React libraries
 - 🟢 [Modal](https://github.com/hazae41/modal) / Convenient modals for your React webapp
 - 🟢 [Chemin](https://github.com/hazae41/chemin) / Create infinite virtual subpaths for your React webapp
-- 🟢 [CloseContext](https://github.com/hazae41/react-close-context) / CloseContext provides a `close(force?)` function to React
+- 🟢 [CloseContext](https://github.com/hazae41/react-close-context) / React context to provide a close function
+- 🟢 [ServerContext](https://github.com/hazae41/react-server-context) / React context for server-side branching
 
 ### My Next.js libraries
 - 🟠 [NextSidebuild](https://github.com/hazae41/next-sidebuild) / Build workers and scripts during your Next.js build
 
 ### My CSS libraries
-- 🟢 [LaBase](https://github.com/hazae41/labase) / The Tailwind framework for monochrome apps
+- 🟢 [LaBase](https://github.com/hazae41/labase) / The React + Tailwind framework for monochrome apps
 
 ## Blockchain stuff
 
@@ -53,9 +50,6 @@
 - 🟢 [EIP-2718](https://github.com/hazae41/eip2718) / EIP-2718 transactions for the web
 - 🟢 [EIP-2930](https://github.com/hazae41/eip2930) / EIP-2930 transactions for the web
 - 🟢 [EIP-1559](https://github.com/hazae41/eip1559) / EIP-1559 transactions for the web
-
-### My Ethereum webapps
-- 🟠 [SignThisForMe](https://github.com/hazae41/signthisforme) / Hyperlinkable webapp to sign stuff using Ethereum
 
 ### My own blockchain stuff
 - 🟢 [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
