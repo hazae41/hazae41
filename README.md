@@ -52,7 +52,8 @@
 - 🟢 [EIP-1559](https://github.com/hazae41/eip1559) / EIP-1559 transactions for the web
 
 ### My own blockchain stuff
-- 🟢 [Bobine](https://github.com/hazae41/bobine) / A blockchain in your garage
+- 🟢 [Bobine](https://github.com/hazae41/bobine) / WebAssembly-based metered chain of compute
+- 🟢 [Turbine](https://github.com/hazae41/turbine) / Bobine over HTTP and WebSocket
 - 🟢 [OpenBob](https://github.com/hazae41/openbob) / Directory of standardized Bobine modules
 - 🟢 [Awesome Bobine](https://github.com/hazae41/awesome-bobine) / A curated list on Bobine ecosystem
 
