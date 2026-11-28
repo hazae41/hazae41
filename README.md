@@ -90,6 +90,7 @@
 - 🔴 [SMUX](https://github.com/hazae41/smux) / SMUX protocol for the web
 
 ### My encoding libraries
+- 🟢 [Webpack](https://github.com/hazae41/webpack) / Wire format for JavaScript primitives
 - 🟢 [Cursor](https://github.com/hazae41/cursor) / Binary cursor for the web
 - 🟢 [Binary](https://github.com/hazae41/binary) / Zero-copy binary data types for the web
 - 🟢 [Visage](https://github.com/hazae41/visage) / QR code encoding for the web
